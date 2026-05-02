@@ -1,16 +1,31 @@
 # Simple Interest Calculator
 
-This project calculates simple interest using the formula:
+## 📌 Introduction
+This project is a Simple Interest Calculator built using HTML, CSS, and JavaScript. It helps users calculate interest on a principal amount over a given time period.
 
-Simple Interest = (Principal × Rate × Time) / 100
+## 🧮 Formula
+Simple Interest (SI) = (Principal × Rate × Time) / 100
 
-## Features
-- Easy calculation
-- User-friendly
+Where:
+- Principal (P): Initial amount
+- Rate (R): Interest rate per year
+- Time (T): Time in years
 
-## Example
+## 🚀 Features
+- User-friendly interface
+- Instant calculation
+- Input for principal, rate, and time
+
+## 💡 Example
 Input:
-P = 1000, R = 5%, T = 2 years
+- P = 1000
+- R = 5%
+- T = 2 years
 
 Output:
-Simple Interest = 100
+- SI = 100
+
+## 🛠️ Technologies Used
+- HTML
+- CSS
+- JavaScript
